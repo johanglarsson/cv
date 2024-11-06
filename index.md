@@ -22,7 +22,7 @@ title: Johan Larsson's CV
 
 ## Working Experience
 
-#### Folksam  (Senior System Engineer, 2022/04 - present) 
+### Folksam  (Senior System Engineer, 2022/04 - present) 
 
 * Lead Software Developer and Architect building application on Azure using Azure App Service in Java Spring Boot (17) and Terraform as IaC tool.
 * Technical lead building the first version of an Internal Development Platform (IDP) using tools like GitLab, Terraform, Crossplane, Spotify Backstage, Helm and ArgoCD using Openshift as compute.
@@ -30,28 +30,28 @@ title: Johan Larsson's CV
 * Responsible for implementing the Binary Management with promotion pipeline.
 * Responsible for building IDP Folksam standard CI/CD pipeline and also setting the Developer Workflow.
 
-#### Bouvet (IT Consultant, 2021/01 - 2022/04) 
+### Bouvet (IT Consultant, 2021/01 - 2022/04) 
 
 * Sofware Developer in a team working in a project that was a joint project between Svenska Kraftnät and Statnett (NO).
 I was building microservices for calculation of capacity between the different power areas in Norway using Apacha Kafka Streams using Java Spring Boot framework.
 
-#### Folksam (Software Developer , 2019/03 - 2021/01)
+### Folksam (Software Developer , 2019/03 - 2021/01)
 
 * Java Developer on RabbitMQ, Play Framework, and Spring Boot
 
-#### Nordea (Expert IT Developer , 2017/07 - 2019/03)
+### Nordea (Expert IT Developer , 2017/07 - 2019/03)
 
 * Lead Integration Architect/Developer building microservices using Java 11 and Spring Boot.
 
-#### Daniel Wellington (Architect , 2016/09 - 2017/07)
+### Daniel Wellington (Architect , 2016/09 - 2017/07)
 
 * Architect designing ecom platform on Amazon AWS using CloudFormation, Kinesis, DynamoDB and AWS Lambda.
 
-#### Nordea (Expert IT Developer , 2011/03 - 2016/09)
+### Nordea (Expert IT Developer , 2011/03 - 2016/09)
 
 * SOA Integration developer/architect in Retail Banking IT building SOA Service on Oracle SOA Suite integration platform.
 
-#### Kentor (IT Consultant , 2000/02 - 2011/03)
+### Kentor (IT Consultant , 2000/02 - 2011/03)
 
 * IT Consultant mainly on the Oracle platform (Oracle Database, Oracle SOA Suite)
 * PL/SQL Developer
