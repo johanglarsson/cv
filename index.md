@@ -5,6 +5,10 @@ title: Johan Larsson's CV
 
 # Senior System Engineer / Senior Software Developer  
 
+<div id="webaddress">
+<a href="jola04@gmail.com">jola04@gmail.com</a>
+</div>
+
 ## Executive Summary
 
 * +20 years experience with Software Development using various languages (Java, Typescript, GoLang).
