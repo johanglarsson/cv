@@ -11,24 +11,36 @@ title: Johan Larsson's CV
 
 ## Executive Summary
 
-- +20 years experience with Software Development using various languages (Java, Typescript, GoLang).
-- 5 years experiance with DevOps building pipelines, images and binary management.
-- 2 years of experience building Azure Infrastructure using Terraform.
--  1 year experiance building AWS infrastructure using AWS Cloudformation.
--  Hand-on experience in GitLab, Spotify Backstage, Openshift, Crossplane, ArgoCD and Helm.
--  Proficient in Java (17, 21) and GoLang.
--  Proficient in Java Spring Boot.
--  Proficient in Apache Maven.
+ +20 years experience with Software Development using various languages (Java, Typescript, GoLang).
+  
+ 5 years experiance with DevOps building pipelines, images and binary management.
+ 
+ 2 years of experience building Azure Infrastructure using Terraform.
+ 
+  1 year experiance building AWS infrastructure using AWS Cloudformation.
+
+  Hand-on experience in GitLab, Spotify Backstage, Openshift, Crossplane, ArgoCD and Helm.
+  
+  Proficient in Java (17, 21) and GoLang.
+  
+  Proficient in Java Spring Boot.
+  
+  Proficient in Apache Maven.
 
 ## Working Experience
 
-`Folksam  (Senior System Engineer, 2022/04 - present)` 
+`2022/04 - present)`
+__Folksam  (Senior System Engineer)__
 
-- Lead Software Developer and Architect building application on Azure using Azure App Service in Java Spring Boot (17) and Terraform as IaC tool.
-- Technical lead building the first version of an Internal Development Platform (IDP) using tools like GitLab, Terraform, Crossplane, Spotify Backstage, Helm and ArgoCD using Openshift as compute.
-- Responsible for building supporting IDP CLI tool using GoLang.
-- Responsible for implementing the Binary Management with promotion pipeline.
-- Responsible for building IDP Folksam standard CI/CD pipeline and also setting the Developer Workflow.
+ Lead Software Developer and Architect building application on Azure using Azure App Service in Java Spring Boot (17) and Terraform as IaC tool.
+ 
+ Technical lead building the first version of an Internal Development Platform (IDP) using tools like GitLab, Terraform, Crossplane, Spotify Backstage, Helm and ArgoCD using Openshift as compute.
+ 
+ Responsible for building supporting IDP CLI tool using GoLang.
+ 
+ Responsible for implementing the Binary Management with promotion pipeline.
+ 
+ Responsible for building IDP Folksam standard CI/CD pipeline and also setting the Developer Workflow.
 
 `Bouvet (IT Consultant, 2021/01 - 2022/04)`
 
