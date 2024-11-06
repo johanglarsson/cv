@@ -42,39 +42,48 @@ __Folksam  (Senior System Engineer)__
  
  Responsible for building IDP Folksam standard CI/CD pipeline and also setting the Developer Workflow.
 
-`Bouvet (IT Consultant, 2021/01 - 2022/04)`
-
-- Sofware Developer in a team working in a project that was a joint project between Svenska Kraftnät and Statnett (NO).
+`2021/01 - 2022/04)`
+__Bouvet (IT Consultant)__
+  
+  Sofware Developer in a team working in a project that was a joint project between Svenska Kraftnät and Statnett (NO).
 I was building microservices for calculation of capacity between the different power areas in Norway using Apacha Kafka Streams using Java Spring Boot framework.
 
-`Folksam (Software Developer , 2019/03 - 2021/01)`
+`2019/03 - 2021/01`
+__Folksam (Software Developer)__
 
-- Java Developer on RabbitMQ, Play Framework, and Spring Boot
+  Java Developer on RabbitMQ, Play Framework, and Spring Boot
 
-`Nordea (Expert IT Developer , 2017/07 - 2019/03)`
+`2017/07 - 2019/03)`
+__Nordea (Expert IT Developer )__
 
 - Lead Integration Architect/Developer building microservices using Java 11 and Spring Boot.
 
-`Daniel Wellington (Architect , 2016/09 - 2017/07)`
+`2016/09 - 2017/07`
+__Daniel Wellington (Architect)__
 
-- Architect designing ecom platform on Amazon AWS using CloudFormation, Kinesis, DynamoDB and AWS Lambda.
+ Architect designing ecom platform on Amazon AWS using CloudFormation, Kinesis, DynamoDB and AWS Lambda.
 
-`Nordea (Expert IT Developer , 2011/03 - 2016/09)`
+`2011/03 - 2016/09`
+__Nordea (Expert IT Developer) __
 
-- SOA Integration developer/architect in Retail Banking IT building SOA Service on Oracle SOA Suite integration platform.
+ SOA Integration developer/architect in Retail Banking IT building SOA Service on Oracle SOA Suite integration platform.
 
-`Kentor (IT Consultant , 2000/02 - 2011/03)`
+`2000/02 - 2011/03`
+__Kentor (IT Consultant)__
 
-- IT Consultant mainly on the Oracle platform (Oracle Database, Oracle SOA Suite)
-- PL/SQL Developer
-- DBA
+ IT Consultant mainly on the Oracle platform (Oracle Database, Oracle SOA Suite)
 
 ## Education & Qualifications
 
-- Azure Fundamentals Certification (2022)
-- Oracle SOA Foundation Practitioner (2010/12)
-- Oracle Certifications (2002 & 2003)
+ `2022`
+ __Azure Fundamentals Certification__
+
+ `2010/12`
+ __Oracle SOA Foundation Practitioner__
+
+ `2002 & 2003`
+ __Oracle Certifications__
 
 ## Misc. Information
 
-- Availability: 3 month's notice
+ Availability: 3 month's notice
